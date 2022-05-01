@@ -1,7 +1,13 @@
 # NutsCity - 坚果小镇
 
-> Server: [Click it!](https://evolution-host.com/free-vps.php)
+## 加入服务器/Join this server
 
-## Join
+ip: `play.nutscity.tk`
 
-Comming soon.
+If ip does't worked, please use `111.67.193.130`
+
+Port/端口: 19132
+
+Minecraft: Badrock 1.18.31
+
+> Enjoy it.
