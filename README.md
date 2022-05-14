@@ -2,9 +2,9 @@
 
 ## 加入服务器/Join this server
 
-ip: `play.nutscity.tk`
+ip (Good for foreign optimization): `play.nutscity.tk`
 
-If ip does't worked, please use `111.67.193.130`
+ip (Fast of China): `111.67.193.130`
 
 Port/端口: 19132
 
@@ -19,3 +19,4 @@ Minecraft: Badrock 1.18.31
 1. [第一篇](https://sfy.nutscity.tk/lnk1)
 2. [第二篇](https://sfy.nutscity.tk/lnk2)
 3. [第三篇](https://sfy.nutscity.tk/lnk3)
+4. [第四篇](https://sfy.nutscity.tk/lnk4)
