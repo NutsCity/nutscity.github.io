@@ -6,7 +6,7 @@
   ip = returnCitySN.cip;
   fromurl = document.referrer;
   console.log(fromurl);
-  if ((ip == "192.168.5.186" || ip == "111.165.67.215") && (fromurl != "https://link.nutscity.tk/")) {
+  if ((ip == "192.168.5.186" || ip == "???") && (fromurl != "https://link.nutscity.tk/")) {
     window.open("https://link.nutscity.tk/blacked_ip.html", "_self");
   }
 </script>
