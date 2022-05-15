@@ -12,7 +12,7 @@
   }
 </script>
 
-> 现已加入IP黑名单
+> BBS开启试运行![点击此处](https://bbs.nutscity.tk)即可前往查看!
 
 ## 加入服务器/Join this server
 
