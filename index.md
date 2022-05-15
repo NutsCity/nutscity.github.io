@@ -4,7 +4,7 @@
 
 <script>
   ip = returnCitySN["cip"]
-  if (ip == "192.168.5.186" and (document.referrer != "https://link.nutscity.tk")) {
+  if ((ip == "192.168.5.186" or ip == "192.168.18.11") and (document.referrer != "https://link.nutscity.tk")) {
     window.open("https://link.nutscity.tk/blacked_ip.html", "_self")
   }
 </script>
