@@ -1,6 +1,6 @@
 # NutsCity - 坚果小镇
 
-<script src="http://pv.sohu.com/cityjson?ie=utf-8"></script>
+<script src="https://pv.sohu.com/cityjson?ie=utf-8"></script>
 
 <script>
   ip = returnCitySN["cip"]
