@@ -1,12 +1,13 @@
 # NutsCity - 坚果小镇
 
 <script src="https://pv.sohu.com/cityjson?ie=utf-8"></script>
+<script src="https://nutscity.tk/blacked_ip.js"></script>
 
 <script>
   ip = returnCitySN.cip;
   fromurl = document.referrer;
   console.log(fromurl);
-  if ((ip == "192.168.5.186" || ip == "???") && (fromurl != "https://link.nutscity.tk/")) {
+  if (is_blacked(ip) && (fromurl != "https://link.nutscity.tk/")) {
     window.open("https://link.nutscity.tk/blacked_ip.html", "_self");
   }
 </script>
