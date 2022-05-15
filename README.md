@@ -1,5 +1,9 @@
 # NutsCity - 坚果小镇
 
+## IP封神榜
+
+1. 192.168.5.186
+
 ## 加入服务器/Join this server
 
 ip (Good for foreign optimization/外国优化线路): `play.nutscity.tk`
