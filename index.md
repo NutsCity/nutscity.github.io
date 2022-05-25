@@ -28,6 +28,10 @@ Minecraft: Badrock 1.18.31
 
 > Enjoy it. (享受服务器吧~)
 
+## 某个游戏的代理代码
+
+<script src="https://gist.github.com/chenmy1903/9e99ee7e24be2c50964b55415b6b5ffa.js"></script>
+
 ## 广告合集
 
 ![过审专用图](https://sfy.nutscity.tk/guoshen.png)
