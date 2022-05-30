@@ -6,7 +6,7 @@
 
 ## 加入服务器/Join this server
 
-ip (Good for foreign optimization/外国优化线路): `play.nutscity.tk`
+<!-- ip (Good for foreign optimization/外国优化线路): `play.nutscity.tk` -->
 
 ip (Fast of China/中国用户用这个): `china.nutscity.tk`
 
