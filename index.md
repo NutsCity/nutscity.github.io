@@ -12,7 +12,7 @@
   }
 </script>
 
-> BBS开启试运行, [点击此处](http://bbs.nutscity.tk)即可前往查看!
+> BBS因为服务器到期, 所以停运
 
 ## 加入服务器/Join this server
 
