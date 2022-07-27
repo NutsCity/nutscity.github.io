@@ -1,4 +1,4 @@
-# NutsCity - 坚果小镇
+<!-- # NutsCity - 坚果小镇
 
 <script src="https://pv.sohu.com/cityjson?ie=utf-8"></script>
 <script src="https://nutscity.tk/blacked_ip.js"></script>
@@ -38,3 +38,8 @@ Minecraft: Badrock 1.18.31
 2. [第二篇](https://sfy.nutscity.tk/lnk2)
 3. [第三篇](https://sfy.nutscity.tk/lnk3)
 4. [第四篇](https://sfy.nutscity.tk/lnk4)
+ -->
+ # NutsCity | 坚果小镇
+ 
+ 停服了, 请前往新服务器, [点击此处](https://tzqpixel.tk)
+ 
